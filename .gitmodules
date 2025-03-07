@@ -1,0 +1,3 @@
+[submodule "lib/commonlibf4-ng"]
+	path = lib/commonlibf4-ng
+	url = https://github.com/alandtse/commonlibf4.git
